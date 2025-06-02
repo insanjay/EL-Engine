@@ -2,7 +2,9 @@
 
 A lightweight emotional engine simulating emotional state transitions in an AI-like agent using vector dynamics, short-term memory, and personality thresholds.
 ---
-Follow the link for the simplified **Medium Blog** \n
+
+Follow the link for the simplified **Medium Blog**👇
+
 https://medium.com/@insanjay.work/teaching-ai-to-feel-the-birth-of-the-emotional-learning-engine-babec5630193
 
 ---
